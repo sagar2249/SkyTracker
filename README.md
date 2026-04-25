@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can directly use for your GitHub repo:
-
----
-
 # 🌤️ SkyTrack – Advanced Weather Forecasting App
 
 SkyTrack is a modern and responsive weather application that provides real-time weather updates, hourly forecasts, and 5-day predictions for any location worldwide. It offers a clean UI along with useful weather insights and alerts.
